@@ -4,7 +4,7 @@
 #
 Name     : flit_core
 Version  : 3.5.1
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/7e/1e/15198966abf00e590ec95fb8aa4ba3d274897fe7b182fce2867f672f6a91/flit_core-3.5.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7e/1e/15198966abf00e590ec95fb8aa4ba3d274897fe7b182fce2867f672f6a91/flit_core-3.5.1.tar.gz
 Summary  : Distribution-building parts of Flit. See flit package for more information
